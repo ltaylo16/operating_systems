@@ -1,0 +1,1 @@
+These are the projects I have worked on in CSC-1600-Operating Systems at Villanova University.
